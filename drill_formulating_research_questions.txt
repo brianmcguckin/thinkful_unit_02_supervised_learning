@@ -1,0 +1,31 @@
+Categorize each of the following research questions as "good" or "bad", and provide alternative formulations for the bad ones. Save your responses in a document of some kind, submit a link below, and discuss your reasoning with your mentor.
+
+1) What is the 1994 rate of juvenile delinquency in the U.S.? good
+    
+2) What can we do to reduce juvenile delinquency in the U.S.? bad
+
+Alt: What factors are correlated with juvenile delinquency in the US?
+    
+3) Does education play a role in reducing juvenile delinquents' return to crime? good
+    
+4) How many customers does AT&T currently serve in Washington, DC? good
+    
+5) What factors lead consumers to choose AT&T over other service providers? good
+    
+6) How can AT&T attract more customers? bad
+
+Alt: Which demographics are under-represented in AT&T's customer base?
+    
+7) Why did the Challenger Shuttle explode? bad
+
+Alt: What factors were abnormal in the Challenger launch compared to successful shuttle launches?
+    
+8) Which genes are associated with increased risk of breast cancer? good
+    
+9) Is it better to read to children at night or in the morning? bad
+
+Alt: Do children retain more details when read to in a specified timeframe?
+    
+10) How does Google’s search algorithm work? bad
+
+Alt: What variables are most influential in determining results returned by Google's search algorithm?
